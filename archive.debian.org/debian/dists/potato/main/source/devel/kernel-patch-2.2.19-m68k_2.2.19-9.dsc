@@ -1,0 +1,1 @@
+../../../../../pool/main/k/kernel-patch-2.2.19-m68k/kernel-patch-2.2.19-m68k_2.2.19-9.dsc

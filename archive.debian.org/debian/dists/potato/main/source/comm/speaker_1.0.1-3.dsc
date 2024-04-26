@@ -1,0 +1,1 @@
+../../../../../pool/main/s/speaker/speaker_1.0.1-3.dsc

@@ -1,0 +1,1 @@
+../../../../../pool/main/k/kernel-image-2.2.19-i386/kernel-image-2.2.19-i386_2.2.19-4potato.7.dsc

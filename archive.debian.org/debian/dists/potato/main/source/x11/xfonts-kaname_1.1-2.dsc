@@ -1,0 +1,1 @@
+../../../../../pool/main/x/xfonts-kaname/xfonts-kaname_1.1-2.dsc

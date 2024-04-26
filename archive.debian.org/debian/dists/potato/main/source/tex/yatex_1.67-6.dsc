@@ -1,0 +1,1 @@
+../../../../../pool/main/y/yatex/yatex_1.67-6.dsc

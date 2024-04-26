@@ -1,0 +1,1 @@
+../../../../../pool/main/n/ncurses/ncurses_5.0-6.0potato2.dsc

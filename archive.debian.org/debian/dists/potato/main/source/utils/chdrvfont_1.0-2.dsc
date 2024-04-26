@@ -1,0 +1,1 @@
+../../../../../pool/main/c/chdrvfont/chdrvfont_1.0-2.dsc

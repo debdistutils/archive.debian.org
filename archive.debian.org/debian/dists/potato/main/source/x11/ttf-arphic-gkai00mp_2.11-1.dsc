@@ -1,0 +1,1 @@
+../../../../../pool/main/t/ttf-arphic-gkai00mp/ttf-arphic-gkai00mp_2.11-1.dsc

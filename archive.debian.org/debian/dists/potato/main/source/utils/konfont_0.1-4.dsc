@@ -1,0 +1,1 @@
+../../../../../pool/main/k/konfont/konfont_0.1-4.dsc

@@ -1,0 +1,1 @@
+../../../../../pool/main/m/manpages-de/manpages-de_0.2-2.dsc

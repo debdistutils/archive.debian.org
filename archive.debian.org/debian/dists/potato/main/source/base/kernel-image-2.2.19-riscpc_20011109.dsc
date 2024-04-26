@@ -1,0 +1,1 @@
+../../../../../pool/main/k/kernel-image-2.2.19-riscpc/kernel-image-2.2.19-riscpc_20011109.dsc

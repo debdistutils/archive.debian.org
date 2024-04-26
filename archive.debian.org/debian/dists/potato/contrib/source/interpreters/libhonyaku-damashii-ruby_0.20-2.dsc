@@ -1,0 +1,1 @@
+../../../../../pool/contrib/libh/libhonyaku-damashii-ruby/libhonyaku-damashii-ruby_0.20-2.dsc

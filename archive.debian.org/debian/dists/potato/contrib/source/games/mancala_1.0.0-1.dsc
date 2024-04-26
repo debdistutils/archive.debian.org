@@ -1,0 +1,1 @@
+../../../../../pool/contrib/m/mancala/mancala_1.0.0-1.dsc

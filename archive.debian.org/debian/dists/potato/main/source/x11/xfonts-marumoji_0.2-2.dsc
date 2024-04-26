@@ -1,0 +1,1 @@
+../../../../../pool/main/x/xfonts-marumoji/xfonts-marumoji_0.2-2.dsc

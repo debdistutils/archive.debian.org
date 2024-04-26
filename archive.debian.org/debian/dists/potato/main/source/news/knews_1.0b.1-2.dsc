@@ -1,0 +1,1 @@
+../../../../../pool/main/k/knews/knews_1.0b.1-2.dsc

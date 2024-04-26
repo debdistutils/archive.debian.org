@@ -1,0 +1,1 @@
+../../../../../pool/non-free/c/csound-doc/csound-doc_3.47b2-1.dsc

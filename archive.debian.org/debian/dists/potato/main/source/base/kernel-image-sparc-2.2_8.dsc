@@ -1,0 +1,1 @@
+../../../../../pool/main/k/kernel-image-sparc-2.2/kernel-image-sparc-2.2_8.dsc

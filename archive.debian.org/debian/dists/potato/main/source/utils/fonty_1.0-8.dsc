@@ -1,0 +1,1 @@
+../../../../../pool/main/f/fonty/fonty_1.0-8.dsc

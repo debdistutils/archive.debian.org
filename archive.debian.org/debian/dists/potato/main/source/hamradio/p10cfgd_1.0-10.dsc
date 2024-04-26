@@ -1,0 +1,1 @@
+../../../../../pool/main/p/p10cfgd/p10cfgd_1.0-10.dsc

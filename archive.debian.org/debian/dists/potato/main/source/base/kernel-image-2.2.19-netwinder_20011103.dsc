@@ -1,0 +1,1 @@
+../../../../../pool/main/k/kernel-image-2.2.19-netwinder/kernel-image-2.2.19-netwinder_20011103.dsc

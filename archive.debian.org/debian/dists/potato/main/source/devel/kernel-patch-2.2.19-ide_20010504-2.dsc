@@ -1,0 +1,1 @@
+../../../../../pool/main/k/kernel-patch-2.2.19-ide/kernel-patch-2.2.19-ide_20010504-2.dsc

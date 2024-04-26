@@ -1,0 +1,1 @@
+../../../../../pool/main/w/wordinspect/wordinspect_0.1a-6.dsc

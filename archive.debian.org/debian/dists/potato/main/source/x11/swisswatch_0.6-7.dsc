@@ -1,0 +1,1 @@
+../../../../../pool/main/s/swisswatch/swisswatch_0.6-7.dsc

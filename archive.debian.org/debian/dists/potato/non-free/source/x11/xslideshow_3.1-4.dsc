@@ -1,0 +1,1 @@
+../../../../../pool/non-free/x/xslideshow/xslideshow_3.1-4.dsc
