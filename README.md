@@ -6,7 +6,8 @@ objects stored using [Git LFS](https://git-lfs.com/).
 
 This repository was created using rsync from [the mirrors of
 archive.debian.org](https://www.debian.org/distrib/archive).  The
-initial import came from `debian.snt.utwente.nl` on 2024-04-26.
+initial import came from `debian.snt.utwente.nl` on 2024-04-26, and
+later synced with `rsync.archive.debian.org` on 2024-04-28.
 
 ## Cloning
 
