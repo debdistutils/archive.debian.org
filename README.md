@@ -4,10 +4,13 @@ This git repository contains a mirror of
 [archive.debian.org](https://archive.debian.org/), with external
 objects stored using [Git LFS](https://git-lfs.com/).
 
-This repository was created using rsync from [the mirrors of
-archive.debian.org](https://www.debian.org/distrib/archive).  The
-initial import came from `debian.snt.utwente.nl` on 2024-04-26, and
-later synced with `rsync.archive.debian.org` on 2024-04-28.
+This repository was created using rsync from [the
+`debian.snt.utwente.nl` mirror of
+archive.debian.org](https://www.debian.org/distrib/archive) on
+2024-04-26.  The goal is to keep it in sync with
+[`rsync.archive.debian.org`](https://lists.debian.org/debian-mirrors-announce/2023/11/msg00000.html)
+going forward, and the last confirmed synchronization happened on
+2024-04-30.
 
 ## Cloning
 
@@ -19,8 +22,8 @@ using the `GIT_LFS_SKIP_SMUDGE=1` environment variable like this:
 GIT_LFS_SKIP_SMUDGE=1 git clone https://gitlab.com/debdistutils/archives/debian/archive.debian.org.git
 ```
 
-Be careful about storage requirements: The git pack to download is
-currently about 310MB and the unpacked checkout will be around 11GB.
+Be careful about size: The git pack to download is currently about
+420MB and the unpacked checkout will be around 13GB.
 
 # Signature Verification
 
